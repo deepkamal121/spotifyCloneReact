@@ -53,3 +53,7 @@ $ expo init SpotifyCloneReact
     - albumId: String
   Data:
     Album (fetched based on the albumId)
+    
+  Song List:
+    - FlatList of SongListItem Component
+    - On click, write the song to context to indicate that is playing
