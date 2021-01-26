@@ -44,3 +44,6 @@ $ expo init SpotifyCloneReact
     - Title: String
     - albums: Array
     
+6. Home Screen
+    Data:
+      - AlbumCategories: Array
