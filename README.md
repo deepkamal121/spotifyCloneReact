@@ -57,3 +57,8 @@ $ expo init SpotifyCloneReact
   Song List:
     - FlatList of SongListItem Component
     - On click, write the song to context to indicate that is playing
+
+8. Play Widget
+  - Get the current song from Context
+  - Display current playing Song
+  - Always on screen, on top of the nav
