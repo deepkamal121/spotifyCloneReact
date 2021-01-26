@@ -10,6 +10,8 @@ Front End
 
 Backend
 1. AWS Amplify
+2. AWS AppSync
+3. GraphQL
 
 Let's get started:-
 
@@ -62,3 +64,25 @@ $ expo init SpotifyCloneReact
   - Get the current song from Context
   - Display current playing Song
   - Always on screen, on top of the nav
+
+9. -  Play Songs
+   -  User Authentication
+   -  Backend GraphQL API
+   -  Connect with Backend
+
+10. Play Song
+      expo install expo-av
+        - Play the sound
+        - Pause/Plat button
+        - Display the progress of the song
+
+11. Setup AWS Amplify
+  
+  React Native + AWS Amplify
+    Prerequisites:
+      - AWS account (Free)
+      - Amplify CLI Installed and configured
+      
+  Getting started guide: https://docs.amplify.aws/start
+  
+  
