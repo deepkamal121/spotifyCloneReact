@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="108a9af2-f6b6-40cd-a816-3b96d9c10e73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/components/AlbumHeader/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/AlbumHeader/styles.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/PlayerWidget/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/PlayerWidget/styles.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Album/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Album/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Album/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/components/Album/styles.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/AlbumCategory/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/AlbumCategory/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/AlbumCategory/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/components/AlbumCategory/styles.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/SongListItem/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/SongListItem/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/SongListItem/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/components/SongListItem/styles.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/albumDetails.ts" beforeDir="false" afterPath="$PROJECT_DIR$/data/albumDetails.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navigation/BottomTabNavigator.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/navigation/BottomTabNavigator.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screens/AlbumScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/screens/AlbumScreen.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screens/HomeScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/screens/HomeScreen.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screens/NotFoundScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/screens/NotFoundScreen.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/types.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/types.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/PlayerWidget/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/PlayerWidget/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/PlayerWidget/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/components/PlayerWidget/styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +52,8 @@
       <option name="presentableId" value="Default" />
       <updated>1611395012031</updated>
       <workItem from="1611395014520" duration="7915000" />
-      <workItem from="1611630352638" duration="11175000" />
+      <workItem from="1611630352638" duration="11428000" />
+      <workItem from="1611658668211" duration="3825000" />
     </task>
     <servers />
   </component>
