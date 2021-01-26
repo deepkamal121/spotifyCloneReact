@@ -47,3 +47,9 @@ $ expo init SpotifyCloneReact
 6. Home Screen
     Data:
       - AlbumCategories: Array
+      
+7. Album Screen
+  Route Params:
+    - albumId: String
+  Data:
+    Album (fetched based on the albumId)
