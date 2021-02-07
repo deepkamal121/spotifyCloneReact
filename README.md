@@ -85,4 +85,16 @@ $ expo init SpotifyCloneReact
       
   Getting started guide: https://docs.amplify.aws/start
   
-  
+12. API and Database:
+  - GraphQL API
+  - Models:
+    
+    - AlbumCategory                 - Album                   - Song
+      - Id                            - Id                      - Id
+      - Title                         - Name                    - imageUri
+      - Albums                        - By                      - Uri
+                                      - numberOfLikes           - Title
+                                      - imageUri                - Artist
+                                      - artistsHeadline         
+                                      - Songs
+                                  
