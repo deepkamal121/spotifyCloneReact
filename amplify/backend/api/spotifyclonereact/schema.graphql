@@ -1,0 +1,21 @@
+type AlbumCategory @model {
+  id: ID!
+  title: String!
+  albums: [Album] @connection(keyName: "byAlbumCategory", fields: ["id"])
+}
+
+type Album @model @key(name: "byAlbumCategory", fields: ["albumCategoryId"]) {
+  id: ID!
+  name: String!
+  by: String!
+  blogID: ID!
+  blog: Blog @connection(fields: ["blogID"])
+  comments: [Comment] @connection(keyName: "byPost", fields: ["id"])
+}
+
+type Comment @model @key(name: "byPost", fields: ["postID", "content"]) {
+  id: ID!
+  postID: ID!
+  post: Post @connection(fields: ["postID"])
+  content: String!
+}
