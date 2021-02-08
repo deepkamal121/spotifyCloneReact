@@ -34,7 +34,7 @@ export default function BottomTabNavigator() {
         }}
       />
       <BottomTab.Screen
-          name="Your Lirary"
+          name="Your Library"
           component={TabTwoNavigator}
           options={{
               tabBarIcon: ({ color }) => <MaterialIcons name="library-music" size={30} style={{ marginBottom: -3 }} color={color}/>,

@@ -8,14 +8,23 @@ type Album @model @key(name: "byAlbumCategory", fields: ["albumCategoryId"]) {
   id: ID!
   name: String!
   by: String!
-  blogID: ID!
-  blog: Blog @connection(fields: ["blogID"])
-  comments: [Comment] @connection(keyName: "byPost", fields: ["id"])
+  numberOfLikes: Int!
+  imageUri: String!
+  artistsHeadline: String!
+
+  songs: [Song] @connection(keyName: "byAlbum", fields: ["id"])
+
+  albumCategoryId: ID!
+  albumCategory: AlbumCategory @connection(fields: ["albumCategoryId"])
 }
 
-type Comment @model @key(name: "byPost", fields: ["postID", "content"]) {
+type Song @model @key(name: "byAlbum", fields: ["albumId"]) {
   id: ID!
-  postID: ID!
-  post: Post @connection(fields: ["postID"])
-  content: String!
+  imageUri: String!
+  uri: String!
+  title: String!
+  artist: String!
+
+  albumId: ID!
+  album: Album @connection(fields: ["albumId"])
 }

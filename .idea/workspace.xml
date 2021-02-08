@@ -2,18 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="108a9af2-f6b6-40cd-a816-3b96d9c10e73" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_01_21,_6_38_pm_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_01_21__6_38_pm__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_01_21,_1_27_pm_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_01_21,_9_51_am_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_01_21__1_27_pm__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_01_21__9_51_am__Default_Changelist_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppContext.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amplify/backend/api/spotifyclonereact/schema.graphql" beforeDir="false" afterPath="$PROJECT_DIR$/amplify/backend/api/spotifyclonereact/schema.graphql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/AlbumCategory/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/AlbumCategory/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/PlayerWidget/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/PlayerWidget/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/SongListItem/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/SongListItem/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/albumDetails.ts" beforeDir="false" afterPath="$PROJECT_DIR$/data/albumDetails.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigation/BottomTabNavigator.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/navigation/BottomTabNavigator.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/AlbumScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/screens/AlbumScreen.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/HomeScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/screens/HomeScreen.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/NotFoundScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/screens/NotFoundScreen.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1nSsppfslQthKjMRZFatH3367h9" />
   <component name="ProjectViewState">
@@ -62,7 +63,8 @@
       <workItem from="1611630352638" duration="11428000" />
       <workItem from="1611658668211" duration="4236000" />
       <workItem from="1611984766488" duration="26000" />
-      <workItem from="1612703534975" duration="6346000" />
+      <workItem from="1612703534975" duration="6737000" />
+      <workItem from="1612758175106" duration="10231000" />
     </task>
     <servers />
   </component>
